@@ -4,9 +4,7 @@ A state based learning approach to winning a game of hockey with cars in Supertu
 
 Placed first among all state based agents
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/Albisourous/supertuxkart-ice-hockey-writeup/blob/main/final_win.mp4" type="video/mp4">
-</video>
+![Win]("https://github.com/Albisourous/supertuxkart-ice-hockey-writeup/blob/main/final_win.mp4")
 
 ## Group Members
 
